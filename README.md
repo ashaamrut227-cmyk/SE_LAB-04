@@ -34,8 +34,7 @@ python game.py
 - `game.py` - updated code
 - `before.mp4` - 10-second gameplay video showing the original bug
 - `after.mp4` - 10-second gameplay video showing the fix and new features
-- Chat history (PDF/doc): `<add file name here>`
-- LLM chat link: `<add shareable link here>`
+- LLM chat link: `<https://claude.ai/share/ea4a2a16-c15c-4f83-9012-c15ea1a14466>`
 
 ## Git History
 
